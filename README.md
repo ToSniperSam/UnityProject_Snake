@@ -2,5 +2,5 @@
 A mini-game of Snake designed when I first learned Unity.
 
 # Basic Background
-As for my first independent project, I utilized a Bilibili course to learn how to use Unity.<br/>
+During my internship in 2023, I happened to learn Unity and created a simple 2D game.<br/>
 As a memory.
